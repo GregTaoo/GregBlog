@@ -1,0 +1,96 @@
+div.loginTip{
+	border:3px solid #aaa8a8;
+	padding:20px 40px; 
+	background:#d6f3f1;
+	width: max-content;
+	border-radius:25px;
+    text-align:center;
+    margin:auto auto;
+}
+div.blogTip{
+	border:3px solid #aaa8a8;
+	padding:40px 100px; 
+    width: auto;
+	border-radius:75px;
+    text-align:center;
+    margin:auto auto;
+}
+div.topMenu {
+    overflow: hidden;
+    background-color: #333;
+}
+div.topMenu a{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+div.topMenu a:hover {
+    background-color: rgb(191, 212, 163);
+    color: black;
+}
+div.topMenu a.text{
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+div.sideMenu {
+    float:left;
+    overflow: hidden;
+    width: max-content;
+    background-color: #60c2d3;
+    margin:auto auto;
+}
+div.sideMenu a{
+    float: left;
+    display: block;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+div.sideMenu a:hover {
+    background-color: #ffffff;
+    color: #000000;
+}
+body{
+	background-image:url('https://static.runoob.com/images/mix/paper.gif');
+	background-color:#cccccc;
+}
+div.help {
+    text-align:center;
+}
+input.button {
+    background-color: #388daf; 
+    border: none;
+    color: white;
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 6px 4px;
+    cursor: pointer;
+}
+input.text{
+    background-color: #a9f1df; 
+    color: black;
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+table{
+    margin:auto auto;
+}
+th{
+    width: 200px;
+    height: 50px;
+}
