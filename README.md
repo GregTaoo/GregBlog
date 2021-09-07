@@ -14,3 +14,7 @@ Supported by the environment
 - Parsedown
 - Highlight.js
 - ME!
+
+##PROBLEMS BE KNOWN
+- Weak in SQL inject
+- Has no install process
